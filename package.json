@@ -1,6 +1,6 @@
 {
   "name": "spr-svg-loader",
-
+  "version": "0.0.1",
   "main": "lib/index.js",
   "dependencies": {
     "babel-runtime": "^6.6.1",
