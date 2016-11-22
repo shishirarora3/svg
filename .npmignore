@@ -1,0 +1,7 @@
+.idea
+.babelrc
+.eslintrc
+.gitignore
+.npmignore
+.npmrc
+test

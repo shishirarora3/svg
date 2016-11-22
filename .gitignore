@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+
+# Compiled files
+lib
+
+# IDE project folders
+.idea
+
+# OS Files
+.DS_Store

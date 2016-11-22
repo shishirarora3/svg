@@ -1,0 +1,21 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "globals": {
+    "__DEV__": true
+  },
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "comma-dangle": [2, "never"],
+    "max-len": [2, 180, 2, {
+      "ignoreUrls": true,
+      "ignoreComments": false
+    }],
+    "no-confusing-arrow": 0,
+    "no-console": 0,
+    "react/jsx-quotes": 0,
+    "jsx-quotes": [2, "prefer-double"]
+  }
+}
